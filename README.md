@@ -1,2 +1,2 @@
-# MarriageMonthly
+# Marriage-Monthly
 Marriage goals tracking app
